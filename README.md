@@ -15,54 +15,7 @@ On the side, I code **modules, experiments, and tools** — hardware cue interfa
 
 ---
 
-<table>
-<thead>
-<tr>
-<th width="25%">📺 Media Servers</th>
-<th width="25%">🎛️ Hardware</th>
-<th width="25%">🔌 Protocols</th>
-<th width="25%">🏅 Certifications</th>
-</tr>
-</thead>
-<tbody>
-<tr>
-<td width="25%">PIXERA</td>
-<td width="25%">Analog Way Aquilon</td>
-<td width="25%">NDI</td>
-<td width="25%">Dataton Watchout Certified</td>
-</tr>
-<tr>
-<td>Resolume Arena</td>
-<td>Novastar MX40 Pro</td>
-<td>Dante Audio</td>
-<td>Dante Level 1 & 2</td>
-</tr>
-<tr>
-<td>Hippotizer</td>
-<td>Roland V40HD</td>
-<td>HDBaseT</td>
-<td>Novastar NCE</td>
-</tr>
-<tr>
-<td>Dataton Watchout</td>
-<td>Blackmagic Design</td>
-<td>SMPTE Timecode</td>
-<td>Absen Certified Engineer</td>
-</tr>
-<tr>
-<td>vMix</td>
-<td>Extron</td>
-<td>ART-NET / DMX</td>
-<td>AVIXA CTS</td>
-</tr>
-<tr>
-<td>OBS Studio</td>
-<td></td>
-<td>EDID Management</td>
-<td></td>
-</tr>
-</tbody>
-</table>
+<img src="skills_table.svg" width="100%"/>
 
 ---
 
