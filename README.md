@@ -11,10 +11,6 @@
 
 ---
 
-```
-C:\AKHIL> type about.txt
-```
-
 Open-source enthusiast working at the intersection of **video integration**, **media server operation**, **show operation**, and **live video production**.
 
 Deeply experienced in high-end, mission-critical live events — the kind where failure is not an option and the margin for error is zero.
@@ -22,10 +18,6 @@ Deeply experienced in high-end, mission-critical live events — the kind where 
 On the side, I code **modules, experiments, and tools** — hardware cue interfaces, video integration triggers, show control utilities, and some web development. Not a full-time developer, but if a problem shows up on the show floor, I'll write the solution myself.
 
 ---
-
-```
-C:\AKHIL\SKILLS> tree /F /A
-```
 
 **📺 Media Servers & Playback**
 
@@ -64,13 +56,3 @@ C:\AKHIL\SKILLS> tree /F /A
 ---
 
 📡 **[Power Behind the Show](https://akhilsekhar.com)** — Electrical power for AV professionals. Course launching soon.
-
----
-
-<div align="center">
-
-```
-C:\AKHIL> _
-```
-
-</div>
