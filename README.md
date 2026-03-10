@@ -10,7 +10,7 @@
 
 ---
 
-<img src="skills_table.svg" width="100%"/>
+<img src="skills_table (1).svg" width="100%"/>
 
 ---
 
