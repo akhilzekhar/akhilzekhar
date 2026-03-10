@@ -3,13 +3,6 @@
 
 <div align="center">
 
-```
-╔══════════════════════════════════════════════════════════════════╗
-║           AKHIL-SEKHAR.EXE  —  SYSTEM INITIALIZED               ║
-║           Lead Video Engineer  |  AV Integrator  |  Educator     ║
-╚══════════════════════════════════════════════════════════════════╝
-```
-
 [![Website](https://img.shields.io/badge/akhilsekhar.com-00FF41?style=flat-square&logo=googlechrome&logoColor=black)](https://akhilsekhar.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akhilzekhar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilzekhar)
 [![Email](https://img.shields.io/badge/Email-akhil@akhilsekhar.com-00FF41?style=flat-square&logo=gmail&logoColor=black)](mailto:akhil@akhilsekhar.com)
@@ -26,7 +19,7 @@ Open-source enthusiast working at the intersection of **video integration**, **m
 
 Deeply experienced in high-end, mission-critical live events — the kind where failure is not an option and the margin for error is zero.
 
-On the side, I code **modules, experiments, and tools** — mostly things the AV industry needs but nobody has built yet. Hardware cue interfaces, video integration triggers, show control utilities, and some web development. Not a full-time developer, but if a problem shows up on the show floor, I'll write the solution myself.
+On the side, I code **modules, experiments, and tools** — hardware cue interfaces, video integration triggers, show control utilities, and some web development. Not a full-time developer, but if a problem shows up on the show floor, I'll write the solution myself.
 
 ---
 
@@ -60,96 +53,24 @@ C:\AKHIL\SKILLS> tree /F /A
 ![ArtNet](https://img.shields.io/badge/ART--NET%2FDMX-9900CC?style=flat-square&logoColor=white)
 ![EDID](https://img.shields.io/badge/EDID_Management-00AAAA?style=flat-square&logoColor=white)
 
----
+**🏅 Certifications**
 
-```
-C:\AKHIL\CERTIFICATIONS> dir /b *.cert
-```
-
-| Certification | Issuer | Status |
-|---|---|---|
-| 🟢 Dataton Watchout Certified | Dataton | `VERIFIED` |
-| 🟢 Dante Level 1 & 2 | Audinate | `VERIFIED` |
-| 🟢 Novastar Certified Engineer (NCE) | Novastar | `VERIFIED` |
-| 🟢 Absen Certified Engineer | Absen | `VERIFIED` |
-| 🟢 AVIXA CTS | AVIXA | `VERIFIED` |
+![Watchout](https://img.shields.io/badge/Dataton_Watchout_Certified-222222?style=flat-square&logoColor=white)
+![Dante](https://img.shields.io/badge/Dante_Level_1_%26_2-003366?style=flat-square&logoColor=white)
+![NCE](https://img.shields.io/badge/Novastar_NCE-FF6600?style=flat-square&logoColor=white)
+![Absen](https://img.shields.io/badge/Absen_Certified_Engineer-CC0000?style=flat-square&logoColor=white)
+![AVIXA](https://img.shields.io/badge/AVIXA_CTS-00AAAA?style=flat-square&logoColor=white)
 
 ---
 
-```
-C:\AKHIL\EVENTS> dir /od /b *.prj
-```
-
-**🏆 Key Projects**
-
-```
-[2024] SAUDI_ARABIA_FIFA2034_BIDDING.PRJ
-       Role     : Lead Video Engineer
-       Scale    : Global ceremony, worldwide broadcast
-       Location : Riyadh, Saudi Arabia
-       Systems  : Media Server Array + LED Wall + Live Broadcast
-
-[2023] MICROSOFT_AI_NEW_ERA_CONFERENCE.PRJ
-       Role     : Senior Video Engineer
-       Scale    : Major corporate multi-screen conference
-       Location : Dubai, UAE
-       Systems  : Signal Switching + Multi-Screen + Live Feeds
-```
-
----
-
-```
-C:\AKHIL\COURSE> type announcement.txt
-```
-
-### 📡 Power Behind the Show — Course Launching Soon
-
-> **Electrical Power for AV Industry Professionals**
-
-A structured course covering real-world electrical power systems for AV engineers — from fundamentals to advanced applications on the show floor.
-
-**Live Webinars** · **Malayalam & English** · **4 Parts · 16 Modules**
-
-[![Course Info](https://img.shields.io/badge/Inner_Circle_Registration-OPEN-00FF41?style=flat-square)](https://akhilsekhar.com)
-
----
-
-```
-C:\AKHIL\STATS> run github-stats.exe
-```
-
-<div align="center">
-
-![Akhil's GitHub Stats](https://github-readme-stats.vercel.app/api?username=akhilzekhar&show_icons=true&theme=chartreuse-dark&hide_border=true&bg_color=0C0C0C&title_color=00FF41&text_color=CCFFCC&icon_color=00CC33)
-
-</div>
-
----
-
-```
-C:\AKHIL> netstat -a
-```
-
-| Protocol | Address | State |
-|---|---|---|
-| `EMAIL` | akhil@akhilsekhar.com | `LISTENING` |
-| `WEB` | akhilsekhar.com | `ESTABLISHED` |
-| `TCP` | linkedin.com/in/akhilzekhar | `ESTABLISHED` |
-| `HIRE` | Open to freelance projects | `● OPEN` |
+📡 **[Power Behind the Show](https://akhilsekhar.com)** — Electrical power for AV professionals. Course launching soon.
 
 ---
 
 <div align="center">
 
 ```
-C:\AKHIL> echo "The show must go on."
-The show must go on.
-
 C:\AKHIL> _
 ```
-
-*Available for freelance engagements — live events, AV system design, technical consultation.*
-
-**[akhilsekhar.com](https://akhilsekhar.com)**
 
 </div>
