@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**akhilzekhar/akhilzekhar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <!-- AKHIL SEKHAR — GitHub Profile README -->
 <!-- Repo: akhilzekhar/akhilzekhar -->
 
@@ -29,7 +13,6 @@ Here are some ideas to get you started:
 [![Website](https://img.shields.io/badge/akhilsekhar.com-00FF41?style=flat-square&logo=googlechrome&logoColor=black)](https://akhilsekhar.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-akhilzekhar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilzekhar)
 [![Email](https://img.shields.io/badge/Email-akhil@akhilsekhar.com-00FF41?style=flat-square&logo=gmail&logoColor=black)](mailto:akhil@akhilsekhar.com)
-[![Location](https://img.shields.io/badge/Riyadh%2C_Saudi_Arabia-🇸🇦-333?style=flat-square)](https://akhilsekhar.com)
 
 </div>
 
@@ -39,11 +22,11 @@ Here are some ideas to get you started:
 C:\AKHIL> type about.txt
 ```
 
-**Lead Video Engineer** with 8+ years designing and operating complex video systems for large-scale live events. Currently based in **Riyadh, KSA** — building the video engineering department from the ground up at Pioneer Events LLC.
+Open-source enthusiast working at the intersection of **video integration**, **media server operation**, **show operation**, and **live video production**.
 
-From **media servers to signal routing**, from **LED walls to IP broadcast workflows** — I engineer the visual experience that makes shows happen without a hitch.
+Deeply experienced in high-end, mission-critical live events — the kind where failure is not an option and the margin for error is zero.
 
-> *50+ events across 3 countries. No show has ever gone wrong on my watch.*
+On the side, I code **modules, experiments, and tools** — mostly things the AV industry needs but nobody has built yet. Hardware cue interfaces, video integration triggers, show control utilities, and some web development. Not a full-time developer, but if a problem shows up on the show floor, I'll write the solution myself.
 
 ---
 
@@ -152,7 +135,6 @@ C:\AKHIL> netstat -a
 | `EMAIL` | akhil@akhilsekhar.com | `LISTENING` |
 | `WEB` | akhilsekhar.com | `ESTABLISHED` |
 | `TCP` | linkedin.com/in/akhilzekhar | `ESTABLISHED` |
-| `GEO` | Riyadh, Saudi Arabia | `ACTIVE` |
 | `HIRE` | Open to freelance projects | `● OPEN` |
 
 ---
