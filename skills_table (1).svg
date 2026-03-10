@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="100%" viewBox="0 0 900 280">
+<defs>
+  <style>
+    .header-text { fill: #000000; font-size: 13px; font-weight: bold; font-family: monospace; }
+    .cell-text { fill: #1a1a1a; font-size: 13px; font-family: monospace; }
+    @media (prefers-color-scheme: dark) {
+      .cell-text { fill: #ccffcc; }
+    }
+  </style>
+</defs>
+
+  <!-- Background transparent -->
+  <rect width="900" height="280" fill="transparent"/>
+
+  <!-- Header row background -->
+  <rect x="0" y="0" width="225" height="36" fill="#00FF41"/>
+  <rect x="225" y="0" width="225" height="36" fill="#00FF41"/>
+  <rect x="450" y="0" width="225" height="36" fill="#00FF41"/>
+  <rect x="675" y="0" width="225" height="36" fill="#00FF41"/>
+
+  <!-- Header text -->
+  <text x="112" y="23" text-anchor="middle" class="header-text">📺 Media Servers</text>
+  <text x="337" y="23" text-anchor="middle" class="header-text">🎛️ Hardware</text>
+  <text x="562" y="23" text-anchor="middle" class="header-text">🔌 Protocols</text>
+  <text x="787" y="23" text-anchor="middle" class="header-text">🏅 Certifications</text>
+
+  <!-- Row lines -->
+  <line x1="0" y1="36" x2="900" y2="36" stroke="#00FF41" stroke-width="0.5" opacity="0.4"/>
+  <line x1="0" y1="76" x2="900" y2="76" stroke="#00FF41" stroke-width="0.5" opacity="0.2"/>
+  <line x1="0" y1="116" x2="900" y2="116" stroke="#00FF41" stroke-width="0.5" opacity="0.2"/>
+  <line x1="0" y1="156" x2="900" y2="156" stroke="#00FF41" stroke-width="0.5" opacity="0.2"/>
+  <line x1="0" y1="196" x2="900" y2="196" stroke="#00FF41" stroke-width="0.5" opacity="0.2"/>
+  <line x1="0" y1="236" x2="900" y2="236" stroke="#00FF41" stroke-width="0.5" opacity="0.2"/>
+
+  <!-- Column dividers -->
+  <line x1="225" y1="0" x2="225" y2="280" stroke="#00FF41" stroke-width="0.5" opacity="0.3"/>
+  <line x1="450" y1="0" x2="450" y2="280" stroke="#00FF41" stroke-width="0.5" opacity="0.3"/>
+  <line x1="675" y1="0" x2="675" y2="280" stroke="#00FF41" stroke-width="0.5" opacity="0.3"/>
+
+  <!-- Row 1 -->
+  <text x="16" y="62" class="cell-text">PIXERA</text>
+  <text x="241" y="62" class="cell-text">Analog Way Aquilon</text>
+  <text x="466" y="62" class="cell-text">NDI</text>
+  <text x="691" y="62" class="cell-text">Dataton Watchout Cert.</text>
+
+  <!-- Row 2 -->
+  <text x="16" y="102" class="cell-text">Resolume Arena</text>
+  <text x="241" y="102" class="cell-text">Novastar MX40 Pro</text>
+  <text x="466" y="102" class="cell-text">Dante Audio</text>
+  <text x="691" y="102" class="cell-text">Dante Level 1 &amp; 2</text>
+
+  <!-- Row 3 -->
+  <text x="16" y="142" class="cell-text">Hippotizer</text>
+  <text x="241" y="142" class="cell-text">Roland V40HD</text>
+  <text x="466" y="142" class="cell-text">HDBaseT</text>
+  <text x="691" y="142" class="cell-text">Novastar NCE</text>
+
+  <!-- Row 4 -->
+  <text x="16" y="182" class="cell-text">Dataton Watchout</text>
+  <text x="241" y="182" class="cell-text">Blackmagic Design</text>
+  <text x="466" y="182" class="cell-text">SMPTE Timecode</text>
+  <text x="691" y="182" class="cell-text">Absen Certified Eng.</text>
+
+  <!-- Row 5 -->
+  <text x="16" y="222" class="cell-text">vMix</text>
+  <text x="241" y="222" class="cell-text">Extron</text>
+  <text x="466" y="222" class="cell-text">ART-NET / DMX</text>
+  <text x="691" y="222" class="cell-text">AVIXA CTS</text>
+
+  <!-- Row 6 -->
+  <text x="16" y="262" class="cell-text">OBS Studio</text>
+  <text x="466" y="262" class="cell-text">EDID Management</text>
+
+  <!-- Outer border -->
+  <rect x="0" y="0" width="900" height="280" fill="none" stroke="#00FF41" stroke-width="1" opacity="0.4"/>
+
+</svg>
