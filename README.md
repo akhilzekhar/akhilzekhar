@@ -1,15 +1,7 @@
 <!-- AKHIL SEKHAR — GitHub Profile README -->
 <!-- Repo: akhilzekhar/akhilzekhar -->
 
-<div align="center">
 
-[![Website](https://img.shields.io/badge/akhilsekhar.com-00FF41?style=flat-square&logo=googlechrome&logoColor=black)](https://akhilsekhar.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-akhilzekhar-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://linkedin.com/in/akhilzekhar)
-[![Email](https://img.shields.io/badge/Email-akhil@akhilsekhar.com-00FF41?style=flat-square&logo=gmail&logoColor=black)](mailto:akhil@akhilsekhar.com)
-
-</div>
-
----
 
 Open-source enthusiast working at the intersection of **video integration**, **media server operation**, **show operation**, and **live video production**.
 
